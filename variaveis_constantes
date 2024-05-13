@@ -1,0 +1,5 @@
+nome, idade,  região = "Carlos", 20,
+print(nome, idade)
+
+BRAZILIAN_STATES= ["RJ", 'SP", "MG"]
+
